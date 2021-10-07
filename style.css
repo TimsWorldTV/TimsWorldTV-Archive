@@ -1,4 +1,4 @@
-body
+bodyf
 {
 
 }
@@ -26,11 +26,32 @@ a:hover {
 h2 {
 	color:#ffffff;
 	font-size:22pt;
-	
+	float: left
 }
 um{
 	color:#ffffff;
 }
 h2:hover{
 	text-decoration: underline white;
+}
+.game{
+	  margin-top: 10000px
+}
+.play{
+	color:#00ffff;
+	font-size:50pt;
+	margin-top: 100px
+}
+.full{
+	font-size:20pt;
+}
+h6 {
+	color:#ffffff;
+	text-decoration: underline white;
+	font-size: 30pt;
+	text-align: left;
+	margin-top: 60px
+}
+.f4strg {
+	float: left
 }

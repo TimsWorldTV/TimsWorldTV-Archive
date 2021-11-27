@@ -1,57 +1,27 @@
-bodyf
-{
-
-}
-h1 {
-  text-align: Center;
-  color:#ffffff;
-  font-size:28pt;
-  margin-top: 0px
+#top {
+    text-align: center;
 }
 
-nav {
-	text-align: Center;
-	font-size:15pt;
-	
-}
-a {
-	text-decoration: none;
-	padding-left: 20px;
+#logo {
+    color: white;
+    background-color: rgb(211, 70, 94);
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 16px;
 }
 
-a:hover {
-	color :#00ABFF;
-	
+#logoname {
+    font-size: 32px;
+    font-weight: bold;
+    margin:16px;
+    color:white
 }
-h2 {
-	color:#ffffff;
-	font-size:22pt;
-	float: left
+#navigation a {
+    color: red;
+    padding: 8px;
+    font-size: 20px;
 }
-um{
-	color:#ffffff;
-}
-h2:hover{
-	text-decoration: underline white;
-}
-.game{
-	  margin-top: 10000px
-}
-.play{
-	color:#00ffff;
-	font-size:50pt;
-	margin-top: 100px
-}
-.full{
-	font-size:20pt;
-}
-h6 {
-	color:#ffffff;
-	text-decoration: underline white;
-	font-size: 30pt;
-	text-align: left;
-	margin-top: 60px
-}
-.f4strg {
-	float: left
-}
+#navigation a:hover {
+    color: rgb(0, 255, 242);
